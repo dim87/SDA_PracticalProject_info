@@ -9,3 +9,5 @@
 - Spring initializr (https://start.spring.io), page to create new spring boot application
 
 - Apache commons library (https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.9), library that adds handful of classes to make development easier (we will use it for validations)
+
+- Postman (https://www.postman.com/downloads/)
